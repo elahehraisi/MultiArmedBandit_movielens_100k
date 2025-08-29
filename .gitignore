@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files (if you don’t want to push big datasets)
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.pkl
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
